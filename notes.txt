@@ -1,0 +1,3 @@
+impt = emmet PropTypes
+rcc = emmet Class defined function
+rfc = emmet defined function
